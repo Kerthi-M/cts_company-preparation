@@ -1,0 +1,3 @@
+jwt\AuthApplication.class
+jwt\controller\AuthenticationController.class
+jwt\config\SecurityConfig.class
